@@ -1,0 +1,1 @@
+Here is my first step's done in django world thanks to https://www.youtube.com/watch?v=ZxMB6Njs3ck&t=7611s&ab_channel=freeCodeCamp.org
