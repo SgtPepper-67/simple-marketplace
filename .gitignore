@@ -1,0 +1,85 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Compiled Python files
+*.pyc
+*.pyo
+*.pyd
+
+# Dependency directories
+node_modules/
+bower_components/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Environment variables
+.env
+
+# Django-specific
+*.log
+db.sqlite3
+
+# Local development settings
+local_settings.py
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore compiled Java classes
+*.class
+
+# Ignore compiled C++ files
+*.out
+
+# Ignore compiled LaTeX files
+*.aux
+*.bbl
+*.blg
+*.log
+*.pdf
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python coverage files
+.coverage
+htmlcov/
+
+# Ignore pytest cache
+__pycache__/
+.pytest_cache/
+
+# Ignore pipenv virtual environment
+Pipfile
+Pipfile.lock
+
+# Ignore VS Code settings
+.vscode/settings.json
+
+# Ignore mypy cache
+.mypy_cache/
+
+# Ignore test database
+test_database.db
+
+# Ignore poetry artifacts
+__pypackages__/
+poetry.lock
+
+#Images and files
+media/
